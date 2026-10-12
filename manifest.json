@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-proton-attachments",
+	"name": "Proton Attachments",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Upload heavy files to your Proton Drive and insert a secure link with password in your notes. Keeps your vault light and your phone free.",
+	"author": "stoicz",
+	"isDesktopOnly": true
+}
